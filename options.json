@@ -1,0 +1,10 @@
+{
+    "location":"http://localhost:8080",
+    "verifyKey":"${key}",
+    "enabledWebSocket":true,
+    "qqNumbers":[],
+    "globalOptions":{
+        
+    },
+    "${qqNumberOptions}":{}
+}
